@@ -1,0 +1,147 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Paths",
+			"request": "launch",
+			"mainClass": "uppgift9.Paths",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Naive",
+			"request": "launch",
+			"mainClass": "uppgift9.Naive",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "main",
+			"request": "launch",
+			"mainClass": "uppgift9.main",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Arrays",
+			"request": "launch",
+			"mainClass": "uppgift1.Arrays",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "hp35",
+			"request": "launch",
+			"mainClass": "uppgift2.hp35",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "staticstacks",
+			"request": "launch",
+			"mainClass": "uppgift2.staticstacks",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "bench",
+			"request": "launch",
+			"mainClass": "uppgift3.bench",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "recursive_search",
+			"request": "launch",
+			"mainClass": "uppgift3.recursive_search",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Insertsort",
+			"request": "launch",
+			"mainClass": "uppgift4.Insertsort",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Selectionstort",
+			"request": "launch",
+			"mainClass": "uppgift4.Selectionstort",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "bench(1)",
+			"request": "launch",
+			"mainClass": "uppgift4.bench",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "mergesort",
+			"request": "launch",
+			"mainClass": "uppgift4.mergesort",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "linkedlist",
+			"request": "launch",
+			"mainClass": "uppgift5.linkedlist",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Queue",
+			"request": "launch",
+			"mainClass": "uppgift6.Queue",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "BinaryTree",
+			"request": "launch",
+			"mainClass": "uppgift7.BinaryTree",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Zip",
+			"request": "launch",
+			"mainClass": "uppgift8.Zip",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Zip2",
+			"request": "launch",
+			"mainClass": "uppgift8.Zip2",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Ziphash",
+			"request": "launch",
+			"mainClass": "uppgift8.Ziphash",
+			"projectName": "Uppgifter_7ed59dd4"
+		},
+		{
+			"type": "java",
+			"name": "Zipkey",
+			"request": "launch",
+			"mainClass": "uppgift8.Zipkey",
+			"projectName": "Uppgifter_7ed59dd4"
+		}
+	]
+}
